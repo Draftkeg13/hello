@@ -1,6 +1,4 @@
-Добавка изменений
-Ещё одна добавка
-
-Добавили строчку в master
-hello git
-
+Hello world!
+Hello git!
+Hello git cherry-pick
+Hello skwash
